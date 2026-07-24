@@ -106,3 +106,11 @@ This repository serves as my personal DSA knowledge base, helping me revise conc
 If you find this repository useful, consider giving it a ⭐.
 
 Happy Coding! 🚀
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0009-palindrome-number) |
+<!---LeetCode Topics End-->
