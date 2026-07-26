@@ -3,24 +3,21 @@ class Solution {
         if(s.length()!=t.length()){
             return false;
         }
-        int fre[]=new int[26];
+        HashMap<Character,Integer> map=new HashMap<>();
 
-        for(int i=0;i<s.length();i++){
-             fre[s.charAt(i)-'a']++;
+        for(char c:s.toCharArray()){
+            map.put(c,map.getOrDefault(c,0)+1);
         }
 
-        for(int i=0;i<t.length();i++){
-            fre[t.charAt(i)-'a']--;
+        for(char c:t.toCharArray()){
+            map.put(c,map.getOrDefault(c,0)-1);
         }
 
-        for(int i:fre){
-            if(i!=0){
+        for(int count: map.values()){
+            if(count!=0){
                 return false;
             }
         }
         return true;
-
-    
-        
     }
 }
