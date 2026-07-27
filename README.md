@@ -118,6 +118,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0136-single-number](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0136-single-number) |
+| [0283-move-zeroes](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0283-move-zeroes) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -134,4 +135,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0242-valid-anagram) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
