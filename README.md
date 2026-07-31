@@ -117,6 +117,7 @@ Happy Coding! 🚀
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0905-sort-array-by-parity) |
@@ -128,6 +129,7 @@ Happy Coding! 🚀
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0242-valid-anagram) |
 | [1331-rank-transform-of-an-array](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/1331-rank-transform-of-an-array) |
 ## String
