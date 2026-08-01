@@ -119,6 +119,7 @@ Happy Coding! 🚀
 | ------- |
 | [0001-two-sum](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0905-sort-array-by-parity) |
 | [1331-rank-transform-of-an-array](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/1331-rank-transform-of-an-array) |
@@ -130,6 +131,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0242-valid-anagram) |
 | [1331-rank-transform-of-an-array](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/1331-rank-transform-of-an-array) |
 ## String
@@ -139,6 +141,7 @@ Happy Coding! 🚀
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0242-valid-anagram) |
 | [0905-sort-array-by-parity](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0905-sort-array-by-parity) |
 | [1331-rank-transform-of-an-array](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/1331-rank-transform-of-an-array) |
