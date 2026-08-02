@@ -118,6 +118,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -151,6 +152,7 @@ Happy Coding! 🚀
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0905-sort-array-by-parity) |
