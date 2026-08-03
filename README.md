@@ -126,6 +126,7 @@ Happy Coding! 🚀
 | [0075-sort-colors](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0643-maximum-average-subarray-i) |
@@ -178,6 +179,7 @@ Happy Coding! 🚀
 | ------- |
 | [0035-search-insert-position](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0704-binary-search) |
 ## Greedy
 |  |
@@ -186,5 +188,10 @@ Happy Coding! 🚀
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0643-maximum-average-subarray-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
