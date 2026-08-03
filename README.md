@@ -128,6 +128,7 @@ Happy Coding! 🚀
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0977-squares-of-a-sorted-array) |
@@ -182,4 +183,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0011-container-with-most-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
