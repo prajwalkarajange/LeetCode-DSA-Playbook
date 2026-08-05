@@ -152,6 +152,7 @@ Happy Coding! 🚀
 | [0125-valid-palindrome](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0344-reverse-string) |
+| [0796-rotate-string](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0917-reverse-only-letters) |
 ## Sorting
 |  |
@@ -203,4 +204,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0198-house-robber) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
