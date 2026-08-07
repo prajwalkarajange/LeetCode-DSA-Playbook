@@ -154,6 +154,7 @@ Happy Coding! 🚀
 | [0344-reverse-string](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0917-reverse-only-letters) |
+| [2390-removing-stars-from-a-string](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/2390-removing-stars-from-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -208,4 +209,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0796-rotate-string) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/2390-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
