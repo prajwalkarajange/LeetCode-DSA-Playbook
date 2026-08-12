@@ -137,6 +137,7 @@ Happy Coding! 🚀
 | [0905-sort-array-by-parity](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/1331-rank-transform-of-an-array) |
+| [1929-concatenation-of-array](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/1929-concatenation-of-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -223,5 +224,6 @@ Happy Coding! 🚀
 ## Simulation
 |  |
 | ------- |
+| [1929-concatenation-of-array](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
