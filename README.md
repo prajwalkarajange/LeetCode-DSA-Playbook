@@ -137,6 +137,7 @@ Happy Coding! 🚀
 | [0905-sort-array-by-parity](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/1331-rank-transform-of-an-array) |
+| [1550-three-consecutive-odds](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/1550-three-consecutive-odds) |
 | [1929-concatenation-of-array](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/1929-concatenation-of-array) |
 ## Bit Manipulation
 |  |
