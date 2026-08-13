@@ -115,6 +115,7 @@ Happy Coding! 🚀
 | [0007-reverse-integer](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0009-palindrome-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Array
 |  |
 | ------- |
@@ -139,6 +140,7 @@ Happy Coding! 🚀
 | [1331-rank-transform-of-an-array](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/1331-rank-transform-of-an-array) |
 | [1550-three-consecutive-odds](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/1550-three-consecutive-odds) |
 | [1929-concatenation-of-array](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -227,4 +229,16 @@ Happy Coding! 🚀
 | ------- |
 | [1929-concatenation-of-array](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/2390-removing-stars-from-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
