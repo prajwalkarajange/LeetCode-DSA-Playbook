@@ -126,6 +126,7 @@ Happy Coding! 🚀
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0198-house-robber) |
@@ -170,6 +171,7 @@ Happy Coding! 🚀
 | [0015-3sum](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0242-valid-anagram) |
 | [0905-sort-array-by-parity](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0905-sort-array-by-parity) |
@@ -183,6 +185,7 @@ Happy Coding! 🚀
 | [0016-3sum-closest](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0283-move-zeroes) |
