@@ -140,6 +140,7 @@ Happy Coding! 🚀
 | [0977-squares-of-a-sorted-array](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/1331-rank-transform-of-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1480-running-sum-of-1d-array](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/1480-running-sum-of-1d-array) |
 | [1550-three-consecutive-odds](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/1550-three-consecutive-odds) |
 | [1929-concatenation-of-array](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -222,6 +223,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0209-minimum-size-subarray-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/1480-running-sum-of-1d-array) |
 ## Dynamic Programming
 |  |
 | ------- |
