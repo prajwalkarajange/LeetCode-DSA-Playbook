@@ -136,6 +136,7 @@ Happy Coding! 🚀
 | [0283-move-zeroes](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0977-squares-of-a-sorted-array) |
@@ -224,6 +225,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/1480-running-sum-of-1d-array) |
 ## Dynamic Programming
 |  |
