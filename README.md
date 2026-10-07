@@ -140,6 +140,7 @@ Happy Coding! 🚀
 | [0724-find-pivot-index](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0905-sort-array-by-parity) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/1331-rank-transform-of-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -162,6 +163,7 @@ Happy Coding! 🚀
 | [0242-valid-anagram](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/1331-rank-transform-of-an-array) |
 ## String
 |  |
@@ -229,6 +231,7 @@ Happy Coding! 🚀
 | [0209-minimum-size-subarray-sum](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/1480-running-sum-of-1d-array) |
 ## Dynamic Programming
 |  |
