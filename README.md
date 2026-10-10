@@ -162,6 +162,7 @@ Happy Coding! 🚀
 | [0142-linked-list-cycle-ii](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0387-first-unique-character-in-a-string) |
 | [0525-contiguous-array](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0904-fruit-into-baskets) |
@@ -174,6 +175,7 @@ Happy Coding! 🚀
 | [0125-valid-palindrome](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0387-first-unique-character-in-a-string) |
 | [0796-rotate-string](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0917-reverse-only-letters) |
 | [2390-removing-stars-from-a-string](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/2390-removing-stars-from-a-string) |
@@ -295,4 +297,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0075-sort-colors) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
