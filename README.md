@@ -167,6 +167,7 @@ Happy Coding! 🚀
 | [0560-subarray-sum-equals-k](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1189-maximum-number-of-balloons](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/1331-rank-transform-of-an-array) |
 ## String
 |  |
@@ -178,6 +179,7 @@ Happy Coding! 🚀
 | [0387-first-unique-character-in-a-string](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0387-first-unique-character-in-a-string) |
 | [0796-rotate-string](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0917-reverse-only-letters) |
+| [1189-maximum-number-of-balloons](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/1189-maximum-number-of-balloons) |
 | [2390-removing-stars-from-a-string](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/2390-removing-stars-from-a-string) |
 ## Sorting
 |  |
@@ -305,4 +307,5 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
