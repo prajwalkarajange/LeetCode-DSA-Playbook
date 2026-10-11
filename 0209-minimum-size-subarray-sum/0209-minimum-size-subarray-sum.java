@@ -2,8 +2,8 @@ class Solution {
     public int minSubArrayLen(int target, int[] nums) {
         int low = 0;
         int high = 0;
-        int res = Integer.MAX_VALUE;
         int sum = 0;
+        int res = Integer.MAX_VALUE;
         int n = nums.length;
 
         while (high < n) {
@@ -14,10 +14,9 @@ class Solution {
                 sum = sum - nums[low];
                 low++;
             }
-
             high++;
         }
-        return (res == Integer.MAX_VALUE ? 0 : res);
 
+        return (res == Integer.MAX_VALUE ? 0 : res);
     }
 }
