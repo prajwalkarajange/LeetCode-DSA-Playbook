@@ -163,6 +163,7 @@ Happy Coding! 🚀
 | [0217-contains-duplicate](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0387-first-unique-character-in-a-string) |
+| [0409-longest-palindrome](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0409-longest-palindrome) |
 | [0525-contiguous-array](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0904-fruit-into-baskets) |
@@ -177,6 +178,7 @@ Happy Coding! 🚀
 | [0242-valid-anagram](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0387-first-unique-character-in-a-string) |
+| [0409-longest-palindrome](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0409-longest-palindrome) |
 | [0796-rotate-string](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0917-reverse-only-letters) |
 | [1189-maximum-number-of-balloons](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/1189-maximum-number-of-balloons) |
@@ -224,6 +226,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0011-container-with-most-water) |
+| [0409-longest-palindrome](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0409-longest-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
