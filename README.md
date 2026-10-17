@@ -155,6 +155,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0136-single-number](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0191-number-of-1-bits) |
 ## Hash Table
 |  |
 | ------- |
@@ -319,4 +320,5 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
