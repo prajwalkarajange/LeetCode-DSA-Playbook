@@ -114,6 +114,7 @@ Happy Coding! 🚀
 | ------- |
 | [0007-reverse-integer](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0268-missing-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Array
@@ -135,6 +136,7 @@ Happy Coding! 🚀
 | [0198-house-robber](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0283-move-zeroes) |
 | [0525-contiguous-array](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0560-subarray-sum-equals-k) |
@@ -156,6 +158,7 @@ Happy Coding! 🚀
 | ------- |
 | [0136-single-number](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -165,6 +168,7 @@ Happy Coding! 🚀
 | [0142-linked-list-cycle-ii](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0409-longest-palindrome) |
 | [0525-contiguous-array](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0525-contiguous-array) |
@@ -195,6 +199,7 @@ Happy Coding! 🚀
 | [0088-merge-sorted-array](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0268-missing-number) |
 | [0905-sort-array-by-parity](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/1331-rank-transform-of-an-array) |
@@ -224,6 +229,7 @@ Happy Coding! 🚀
 | [0035-search-insert-position](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0704-binary-search) |
 ## Greedy
 |  |
