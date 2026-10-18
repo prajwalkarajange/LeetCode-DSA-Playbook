@@ -188,6 +188,7 @@ Happy Coding! 🚀
 | [0409-longest-palindrome](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0409-longest-palindrome) |
 | [0796-rotate-string](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0917-reverse-only-letters) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/1189-maximum-number-of-balloons) |
 | [2390-removing-stars-from-a-string](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/2390-removing-stars-from-a-string) |
 ## Sorting
@@ -266,6 +267,7 @@ Happy Coding! 🚀
 ## Stack
 |  |
 | ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
