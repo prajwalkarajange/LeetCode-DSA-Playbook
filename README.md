@@ -145,6 +145,7 @@ Happy Coding! 🚀
 | [0643-maximum-average-subarray-i](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0724-find-pivot-index) |
+| [0875-koko-eating-bananas](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0905-sort-array-by-parity) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -237,6 +238,7 @@ Happy Coding! 🚀
 | [0268-missing-number](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0875-koko-eating-bananas) |
 ## Greedy
 |  |
 | ------- |
