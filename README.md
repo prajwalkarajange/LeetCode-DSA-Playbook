@@ -118,6 +118,7 @@ Happy Coding! 🚀
 | [0633-sum-of-square-numbers](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0633-sum-of-square-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2235-add-two-integers](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/2235-add-two-integers) |
 ## Array
 |  |
 | ------- |
