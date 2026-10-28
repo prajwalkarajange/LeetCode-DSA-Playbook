@@ -139,6 +139,7 @@ Happy Coding! 🚀
 | [0198-house-robber](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0217-contains-duplicate) |
+| [0240-search-a-2d-matrix-ii](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0283-move-zeroes) |
 | [0525-contiguous-array](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0525-contiguous-array) |
@@ -236,6 +237,7 @@ Happy Coding! 🚀
 | [0074-search-a-2d-matrix](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0704-binary-search) |
@@ -337,8 +339,10 @@ Happy Coding! 🚀
 | ------- |
 | [0053-maximum-subarray](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0191-number-of-1-bits) |
+| [0240-search-a-2d-matrix-ii](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/prajwalkarajange/LeetCode-DSA-Playbook/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
